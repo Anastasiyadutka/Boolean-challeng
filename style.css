@@ -1,0 +1,83 @@
+body{
+    background-image: url(sfondo.png);
+    background-size: cover;
+    background-attachment: fixed;
+    line-height: 1px;
+}
+
+.sfondo2{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 80px;
+    margin-right: 80px;
+    background-color: rgba(0, 0, 0, 0.486);
+    padding: 20px;
+}
+
+#logo{
+    width: 200px;
+    height: 80px;
+}
+
+#titolo{
+    color: rgb(0, 255, 42);
+}
+
+.margini{
+    margin-left: 15%;
+    margin-right: 15%;
+    color: aliceblue;
+}
+
+
+div.centrato{
+    text-align: center;
+}
+
+#menu{
+    background-color: rgb(26, 250, 18);
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 5px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+
+Div.sinistra{
+    text-align: left;
+}
+
+Div.selezione{
+    display: inline-block;
+}
+
+Div.descrizione{
+    display: inline-block;
+}
+
+.via{
+    display: inline-block;
+}
+
+.media{
+    background-color: rgb(236, 233, 39);
+    width: 300px;
+    height: 20px;
+}
+
+.carica{
+    background-color: rgb(104, 160, 19);
+    width: 500px;
+    height: 20px;
+}
+
+.scarica{
+    background-color: rgb(223, 35, 35);
+    width: 150px;
+    height: 20px;
+}
+
+.batteria{
+    border: 1px solid black;
+    border-radius: 10px 10px 10px 10px;
+ }
